@@ -1,7 +1,7 @@
 Flurry Bunch Cocos2dx
 ---
 
-It's Unity3d implementation of Flurry for Native Gateway.
+It's Cocos2d-x implementation of Flurry for Native Gateway.
 
 Native Gateway
 ---
